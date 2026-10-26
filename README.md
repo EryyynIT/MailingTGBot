@@ -26,7 +26,7 @@ A Telegram bot written in **aiogram v3** for managing mailing operations from ad
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Dexter2038/MailingTGBot.git
+   git clone https://github.com/EryyynIT/MailingTGBot.git
    cd MailingTGBot
    ```
 
@@ -202,7 +202,7 @@ This project is open source. Feel free to fork and contribute!
 
 ## 👨‍💻 Author
 
-**Dexter2038**
+**EryyynIT**
 
 ## 🤝 Contributing
 
